@@ -9,7 +9,7 @@
   </a>
 
   <a href="https://discord.gg/ayEstZGWF6" style="display: inline-block; vertical-align: middle;">
-    <img src="https://cdn.discordapp.com/attachments/1124562179635556362/1384864625178447892/image.png?ex=6853fb30&is=6852a9b0&hm=a0849e765228218ee413624b57d00d98aed0e3e1631dafcf47bcb17a6671d9df&" alt="Join our Discord" height="45"/>
+    <img src="https://cdn.discordapp.com/attachments/1124562179635556362/1384864625178447892/image.png?ex=6853fb30&is=6852a9b0&hm=a0849e765228218ee413624b57d00d98aed0e3e1631dafcf47bcb17a6671d9df&" alt="Join our Discord" height="30"/>
   </a>
 </div>
 
