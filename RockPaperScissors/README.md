@@ -2,7 +2,9 @@
 
 This is a simple _pretty colorful_ **Rock Paper Scissors** game implemented in **C# Console**.
 
-### Explanation
+---
+
+## Explanation
 - Initializes scores with zero.
 - A while loop runs until the user decides to quit.
   - Lets user choose Rock, Paper, or Scissors.
@@ -16,6 +18,8 @@ This is a simple _pretty colorful_ **Rock Paper Scissors** game implemented in *
   - Displays the result of each round and updates scores.
   - Asks the user if they want to play again.
     - Displays the final scores when the user decides to quit.
+
+---
 
 # Playing
 ![Playing](../_assets/RPS_Playing.png)
