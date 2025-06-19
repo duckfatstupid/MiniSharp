@@ -2,7 +2,7 @@
 
 This is a simple _pretty colorful_ **Rock Paper Scissors** game implemented in **C# Console**.
 
-### Explaination
+### Explanation
 - Initializes scores with zero.
 - A while loop runs until the user decides to quit.
   - Lets user choose Rock, Paper, or Scissors.
